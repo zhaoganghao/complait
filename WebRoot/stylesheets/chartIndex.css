@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+table tr .seachsub{
+	text-align: center;
+}
+table tr .seachsub input{
+	width: 200px;
+}

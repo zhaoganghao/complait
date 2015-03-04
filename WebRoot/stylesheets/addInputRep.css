@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+table .selTrueFalse{
+	margin-bottom: 5px;
+	margin-left: 10px;
+}
+table .leftRow {
+	text-align: right;
+	width: 20%;
+}
+table .tabTitle{
+	text-align: center;
+	font-size: 20px;
+}
+table .submitTd {
+	text-align: center;
+}
+
+table td textarea {
+	width: 400px;
+	resize: none;
+}
+
+table td input {
+	width: 400px;
+}
+
+table .submitTd input {
+	width: 200px;
+}

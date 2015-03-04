@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+table .leftRow {
+	text-align: right;
+	width: 20%;
+}
+table .tabTitle{
+	text-align: center;
+	font-size: 16px;
+}

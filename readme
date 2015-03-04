@@ -1,0 +1,10 @@
+
+
+用户：User
+投诉信息：Information
+回复：Reply
+
+区域：Area（private int state;//null代表省局，市局，高校//0是省局，1是市局，3是县局，4是高校）
+违规类别：CompCategory  ，private int state;//0级，1级，2级，3级，4级
+来源：Source 
+学历：Diploma.java

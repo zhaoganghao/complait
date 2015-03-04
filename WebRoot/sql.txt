@@ -1,0 +1,76 @@
+create database complaintDB character set utf8;
+use complaintDB;
+
+create table compcategory(
+cid int primary key auto_increment,
+name varchar(15),
+state TINYINT,
+);
+create table source(
+sid int primary key auto_increment,
+name varchar(2)
+);
+
+create table diploma(
+did int primary key auto_increment,
+name varchar(6)
+);
+
+create table area(
+aid int primary key ,
+pid int ,
+name varchar(11),
+state TINYINT
+);//null代表省局//0是省局，1是市局，3是县局，4是高校
+
+create table reply(
+rid int primary key auto_increment,
+content text,
+isboolean TINYINT,	
+date datetime,
+name varchar(6)
+);
+create table information(
+iid int primary key auto_increment,
+encode char(8),
+cid int,
+sid int,
+did int,
+aid int,
+rid int,
+ifrom varchar(50),
+reported varchar(50),
+content text,
+remarks varchar(200),
+curr_date datetime,
+limit_date datetime,
+operator varchar(5),
+replyphone varchar(15),
+replyemail varchar(20),
+
+constraint cid_FK foreign key (cid) references compcategory(cid),
+constraint sid_FK foreign key (sid) references source(sid),
+constraint did_FK foreign key (did) references diploma(did),
+constraint aid_FK foreign key (aid) references area(aid),
+constraint rid_FK foreign key (rid) references reply(rid)
+);
+create table user(
+username varchar(20) primary key,
+password varchar(16) not null,
+name varchar(6),
+phone varchar(15),
+email varchar(20),
+aid int,
+constraint uaid_FK foreign key (aid) references area(aid)
+);
+
+
+
+
+
+
+
+
+
+
+

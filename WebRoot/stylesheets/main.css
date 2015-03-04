@@ -1,0 +1,65 @@
+@CHARSET "UTF-8";
+/* 导航条样式 */
+body {
+	font-family: '微软雅黑';
+}
+
+.navbar .nav  li  a {
+	padding: 39px 15px;
+	font-family: '微软雅黑';
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.navbar .nav  li ul li  a {
+	padding: 10px 15px 10px;
+	font-size: 14px;
+}
+
+.navbar .nav .display a {
+	padding: 40px 15px;
+	font-family: '微软雅黑';
+	font-size: 16px;
+	font-weight: bold;
+}
+/* index.html */
+#line-chart {
+	height: 300px;
+	width: 800px;
+	margin: 0px auto;
+	margin-top: 1em;
+}
+
+.brand {
+	font-family: georgia, serif;
+}
+
+.brand .first {
+	color: #ccc;
+	font-style: italic;
+	display: block;
+	float: left;
+}
+
+.brand .first .logo {
+	width: 95px;
+	height: 70px;
+}
+
+}
+.brand .second {
+	color: #fff;
+	font-weight: bold;
+	display: block;
+	float: left;
+	margin-left: 10px;
+}
+
+.navbar .navbar-inner {
+	height: 100px;
+}
+/* calendar.html */
+#calendar {
+	width: 100%;
+	margin: 0 auto;
+}

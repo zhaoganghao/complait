@@ -1,0 +1,32 @@
+insert into compcategory(name,state) value('违反简化审批行为',0);
+insert into compcategory(name,state) value('违规设置办学机构',1);
+insert into compcategory(name,state) value('违规分班',1);
+insert into compcategory(name,state) value('课业负担过重',1);
+insert into compcategory(name,state) value('体罚学生',1);
+insert into compcategory(name,state) value('择校乱收费',2);
+insert into compcategory(name,state) value('补课乱收费',2);
+insert into compcategory(name,state) value('强制收取服务性收费和代收费',2);
+insert into compcategory(name,state) value('自立项目乱收费',2);
+insert into compcategory(name,state) value('平台外招生',3);
+insert into compcategory(name,state) value('违规自主招生',3);
+insert into compcategory(name,state) value('违规特殊类型招生',3);
+insert into compcategory(name,state) value('违规跨区域招生',3);
+insert into compcategory(name,state) value('违反改进作风行为',4);
+insert into compcategory(name,state) value('其他',1);
+
+insert into source(name) value('电话');
+insert into source(name) value('电邮');
+insert into source(name) value('来信');
+insert into source(name) value('上线');
+insert into source(name) value('媒体');
+insert into source(name) value('其他');
+
+
+insert into diploma(name) value('幼儿园');
+insert into diploma(name) value('义务教育');
+insert into diploma(name) value('高中');
+insert into diploma(name) value('中专');
+insert into diploma(name) value('高校');
+insert into diploma(name) value('教育行政部门');
+insert into diploma(name) value('其他');
+

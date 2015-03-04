@@ -1,0 +1,139 @@
+insert into area(aid,pid,name,state) value(19,5,'鄂城区',2);
+insert into area(aid,pid,name,state) value(20,5,'华容区',2);
+insert into area(aid,pid,name,state) value(21,5,'梁子湖区',2);
+insert into area(aid,pid,name,state) value(22,5,'市直教育系统',2);
+
+insert into area(aid,pid,name,state) value(23,6,'随县',2);
+insert into area(aid,pid,name,state) value(24,6,'广水市',2);
+insert into area(aid,pid,name,state) value(25,6,'曾都区',2);
+insert into area(aid,pid,name,state) value(26,6,'市直',2);
+
+insert into area(aid,pid,name,state) value(27,7,'荆州市直',2);
+insert into area(aid,pid,name,state) value(28,7,'荆州区',2);
+insert into area(aid,pid,name,state) value(29,7,'沙市区',2);
+insert into area(aid,pid,name,state) value(30,7,'江陵县',2);
+insert into area(aid,pid,name,state) value(31,7,'松滋市',2);
+insert into area(aid,pid,name,state) value(32,7,'公安县',2);
+insert into area(aid,pid,name,state) value(33,7,'石首市',2);
+insert into area(aid,pid,name,state) value(34,7,'监利县',2);
+insert into area(aid,pid,name,state) value(35,7,'洪湖市',2);
+insert into area(aid,pid,name,state) value(36,7,'荆州开发区',2);
+
+insert into area(aid,pid,name,state) value(37,8,'襄城区',2);
+insert into area(aid,pid,name,state) value(38,8,'樊城区',2);
+insert into area(aid,pid,name,state) value(39,8,'高新区',2);
+insert into area(aid,pid,name,state) value(40,8,'襄州区',2);
+insert into area(aid,pid,name,state) value(41,8,'南漳县',2);
+insert into area(aid,pid,name,state) value(42,8,'老河口市',2);
+insert into area(aid,pid,name,state) value(45,8,'谷城县',2);
+insert into area(aid,pid,name,state) value(46,8,'保康县',2);
+insert into area(aid,pid,name,state) value(47,8,'宜城县',2);
+insert into area(aid,pid,name,state) value(48,8,'枣阳县',2);
+insert into area(aid,pid,name,state) value(49,8,'市值县',2);
+
+insert into area(aid,pid,name,state) value(51,9,'宜都市',2);
+insert into area(aid,pid,name,state) value(52,9,'枝江市',2);
+insert into area(aid,pid,name,state) value(53,9,'当阳市',2);
+insert into area(aid,pid,name,state) value(54,9,'远安市',2);
+insert into area(aid,pid,name,state) value(55,9,'兴山县',2);
+insert into area(aid,pid,name,state) value(56,9,'秭归县',2);
+insert into area(aid,pid,name,state) value(57,9,'长阳县',2);
+insert into area(aid,pid,name,state) value(58,9,'五峰县',2);
+insert into area(aid,pid,name,state) value(59,9,'夷陵区',2);
+insert into area(aid,pid,name,state) value(60,9,'西陵区',2);
+insert into area(aid,pid,name,state) value(61,9,'伍家区',2);
+insert into area(aid,pid,name,state) value(62,9,'点军区',2);
+insert into area(aid,pid,name,state) value(63,9,'猇亭区',2);
+insert into area(aid,pid,name,state) value(64,9,'高新区',2);
+insert into area(aid,pid,name,state) value(65,9,'市直',2);
+
+
+
+insert into area(aid,pid,name,state) value(66,10,'市直',2);
+
+
+insert into area(aid,pid,name,state) value(67,11,'大冶市',2);
+insert into area(aid,pid,name,state) value(68,11,'阳新县',2);
+insert into area(aid,pid,name,state) value(69,11,'黄石港区',2);
+insert into area(aid,pid,name,state) value(70,11,'西塞山区',2);
+insert into area(aid,pid,name,state) value(71,11,'开发区',2);
+insert into area(aid,pid,name,state) value(72,11,'下陆区',2);
+insert into area(aid,pid,name,state) value(73,11,'铁山区',2);
+
+insert into area(aid,pid,name,state) value(74,12,'丹江口市',2);
+insert into area(aid,pid,name,state) value(75,12,'郧县',2);
+insert into area(aid,pid,name,state) value(76,12,'郧西县',2);
+insert into area(aid,pid,name,state) value(77,12,'竹山县',2);
+insert into area(aid,pid,name,state) value(78,12,'竹溪县',2);
+insert into area(aid,pid,name,state) value(79,12,'房县',2);
+insert into area(aid,pid,name,state) value(80,12,'张湾区',2);
+insert into area(aid,pid,name,state) value(81,12,'茅箭区',2);
+insert into area(aid,pid,name,state) value(82,12,'经济开发区',2);
+insert into area(aid,pid,name,state) value(83,12,'武当山特区',2);
+insert into area(aid,pid,name,state) value(84,12,'市直',2);
+
+insert into area(aid,pid,name,state) value(85,13,'京山县',2);
+insert into area(aid,pid,name,state) value(86,13,'沙洋县',2);
+insert into area(aid,pid,name,state) value(87,13,'钟祥市',2);
+insert into area(aid,pid,name,state) value(88,13,'东宝区',2);
+insert into area(aid,pid,name,state) value(89,13,'掇刀区',2);
+insert into area(aid,pid,name,state) value(90,13,'屈家岭管理区',2);
+insert into area(aid,pid,name,state) value(91,13,'市直',2);
+
+insert into area(aid,pid,name,state) value(92,14,'恩施州',2);
+insert into area(aid,pid,name,state) value(93,14,'恩施市',2);
+insert into area(aid,pid,name,state) value(94,14,'利川市',2);
+insert into area(aid,pid,name,state) value(95,14,'建始县',2);
+insert into area(aid,pid,name,state) value(96,14,'巴东县',2);
+insert into area(aid,pid,name,state) value(97,14,'宣恩县',2);
+insert into area(aid,pid,name,state) value(98,14,'咸丰县',2);
+insert into area(aid,pid,name,state) value(99,14,'来凤县',2);
+insert into area(aid,pid,name,state) value(100,14,'鹤峰县',2);
+
+insert into area(aid,pid,name,state) value(101,15,'市直',2);
+insert into area(aid,pid,name,state) value(102,15,'黄州区',2);
+insert into area(aid,pid,name,state) value(103,15,'团风县',2);
+insert into area(aid,pid,name,state) value(104,15,'红安县',2);
+insert into area(aid,pid,name,state) value(105,15,'麻城市',2);
+insert into area(aid,pid,name,state) value(106,15,'罗田县',2);
+insert into area(aid,pid,name,state) value(107,15,'英山县',2);
+insert into area(aid,pid,name,state) value(108,15,'浠水县',2);
+insert into area(aid,pid,name,state) value(109,15,'蕲春县',2);
+insert into area(aid,pid,name,state) value(110,15,'武穴市',2);
+insert into area(aid,pid,name,state) value(111,15,'黄梅县',2);
+insert into area(aid,pid,name,state) value(112,15,'龙感湖',2);
+
+
+insert into area(aid,pid,name,state) value(113,16,'市直',2);
+insert into area(aid,pid,name,state) value(114,16,'孝南区',2);
+insert into area(aid,pid,name,state) value(115,16,'汉川市',2);
+insert into area(aid,pid,name,state) value(116,16,'安陆市',2);
+insert into area(aid,pid,name,state) value(117,16,'应城市',2);
+insert into area(aid,pid,name,state) value(118,16,'云梦县',2);
+insert into area(aid,pid,name,state) value(119,16,'孝昌县',2);
+insert into area(aid,pid,name,state) value(120,16,'大悟县',2);
+
+insert into area(aid,pid,name,state) value(121,17,'市直',2);
+insert into area(aid,pid,name,state) value(122,17,'咸安区',2);
+insert into area(aid,pid,name,state) value(123,17,'嘉鱼县',2);
+insert into area(aid,pid,name,state) value(124,17,'赤壁市',2);
+insert into area(aid,pid,name,state) value(125,17,'通城县',2);
+insert into area(aid,pid,name,state) value(126,17,'崇阳县',2);
+insert into area(aid,pid,name,state) value(127,17,'通山县',2);
+
+insert into area(aid,pid,name,state) value(128,18,'硚口区',2);
+insert into area(aid,pid,name,state) value(129,18,'汉阳区',2);
+insert into area(aid,pid,name,state) value(130,18,'武昌区',2);
+insert into area(aid,pid,name,state) value(131,18,'江汉区',2);
+insert into area(aid,pid,name,state) value(132,18,'江岸区',2);
+insert into area(aid,pid,name,state) value(133,18,'青山区',2);
+insert into area(aid,pid,name,state) value(134,18,'洪山区',2);
+insert into area(aid,pid,name,state) value(135,18,'东湖高新区',2);
+insert into area(aid,pid,name,state) value(136,18,'江夏区',2);
+insert into area(aid,pid,name,state) value(137,18,'黄陂区',2);
+insert into area(aid,pid,name,state) value(138,18,'新洲区',2);
+insert into area(aid,pid,name,state) value(139,18,'沌口开发区',2);
+insert into area(aid,pid,name,state) value(140,18,'蔡甸区',2);
+insert into area(aid,pid,name,state) value(141,18,'东西湖区',2);
+insert into area(aid,pid,name,state) value(142,18,'汉南区',2);
+insert into area(aid,pid,name,state) value(143,18,'局直属',2);

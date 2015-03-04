@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+canvas {
+	float: left;
+}
+
+.vertical,.level {
+	font-family: '微软雅黑';
+	float: left;
+	font-size: 12px;
+	color: red;
+}
+
+.level {
+	margin-top: 276px;
+	margin-left: 15px;
+}
+
+.vertical {
+	width: 12px;
+}
+
+.title {
+	font-family: '微软雅黑';
+	font-size: 16px;
+	text-align: center;
+	width: 400px;
+	color: red;
+}
+
+.chart {
+	width: 100%;
+}
+
+.row1 {
+	width: 960px;
+	margin: 20px auto;
+}
+
+#boxBar {
+	float: left;
+}
+
+#boxLine {
+	float: right;
+}
+
+#boxTable {
+	clear: both;
+	width: 960px;
+	margin: auto;
+	padding-top: 20px;
+}
+
+#boxTable .thead_tr_th {
+	font-family: '微软雅黑';
+	font-size: 16px;
+	text-align: center;
+}

@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+
+#paging {
+	text-align: right;
+	line-height: 20px;
+	height: 40px;
+	font-size: 16px;
+}
+
+#paging span {
+	margin: 5px;
+}
+
+#paging span .i_text {
+	width: 40px;
+	height: 20px;
+}
+
+#paging span .i_submit {
+	width: 40px;
+	height: 32px;
+	margin-bottom: 9px;
+}

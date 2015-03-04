@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+table .tab_title{
+	text-align: center;
+}
+
+table .td_left{
+	width: 20%;
+	text-align: right;
+}
+table .td_right{
+	width: 80%;
+}
